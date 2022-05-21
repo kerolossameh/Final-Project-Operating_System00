@@ -1,0 +1,30 @@
+F:\Desktop\ProjectOS\PojectOS\bin\Debug\net6.0\ProjectOS.exe
+F:\Desktop\ProjectOS\PojectOS\bin\Debug\net6.0\ProjectOS.deps.json
+F:\Desktop\ProjectOS\PojectOS\bin\Debug\net6.0\ProjectOS.runtimeconfig.json
+F:\Desktop\ProjectOS\PojectOS\bin\Debug\net6.0\ProjectOS.dll
+F:\Desktop\ProjectOS\PojectOS\bin\Debug\net6.0\ProjectOS.pdb
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.csproj.AssemblyReference.cache
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.AssemblyInfoInputs.cache
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.AssemblyInfo.cs
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.csproj.CoreCompileInputs.cache
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.dll
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\refint\ProjectOS.dll
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.pdb
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ProjectOS.genruntimeconfig.cache
+F:\Desktop\ProjectOS\PojectOS\obj\Debug\net6.0\ref\ProjectOS.dll
+F:\Desktop\ProjectOS C#\PojectOS\bin\Debug\net6.0\ProjectOS.exe
+F:\Desktop\ProjectOS C#\PojectOS\bin\Debug\net6.0\ProjectOS.deps.json
+F:\Desktop\ProjectOS C#\PojectOS\bin\Debug\net6.0\ProjectOS.runtimeconfig.json
+F:\Desktop\ProjectOS C#\PojectOS\bin\Debug\net6.0\ProjectOS.dll
+F:\Desktop\ProjectOS C#\PojectOS\bin\Debug\net6.0\ProjectOS.pdb
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.csproj.AssemblyReference.cache
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.AssemblyInfoInputs.cache
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.AssemblyInfo.cs
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.csproj.CoreCompileInputs.cache
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.dll
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\refint\ProjectOS.dll
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.pdb
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ProjectOS.genruntimeconfig.cache
+F:\Desktop\ProjectOS C#\PojectOS\obj\Debug\net6.0\ref\ProjectOS.dll
